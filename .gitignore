@@ -1,3 +1,3 @@
-/node_modules
-devconnecter/package-lock.json
-devconnecter/config/key.js
+node_modules/
+package-lock.json
+key.js
