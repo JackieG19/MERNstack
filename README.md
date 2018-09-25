@@ -1,5 +1,5 @@
 # MERNstack
-### dev connect app
+### dev connect (social)app 
 
 | Course Plan | Main technologies Used To Building the App  |
 |---| :---: | 
